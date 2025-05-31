@@ -4,6 +4,9 @@
         "time": "2025-05-30 13:55",
         "author": "Dheeraj",
         "headline": "Demo",
-        "details": "This is a fucking demo\r\n"
+        "details": "This is a fucking demo\r\n",
+        "news_type": "Invention",
+        "field": "IoT",
+        "class": "featured"
     }
 ]
