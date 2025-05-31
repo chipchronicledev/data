@@ -8,5 +8,295 @@
         "news_type": "Invention",
         "field": "IoT",
         "class": "featured"
+    },
+    {
+        "id": 2,
+        "time": "2025-05-29 10:30",
+        "author": "Aarav",
+        "headline": "New AI Accelerator Chip Launched",
+        "details": "A breakthrough in VLSI with a 10x faster chip designed for AI workloads.",
+        "news_type": "Product Launch",
+        "field": "VLSI",
+        "class": "breaking"
+    },
+    {
+        "id": 3,
+        "time": "2025-05-28 09:45",
+        "author": "Meera",
+        "headline": "DRDO Introduces Secure Embedded System for Defense",
+        "details": "The system enhances national security using custom cryptographic hardware.",
+        "news_type": "Invention",
+        "field": "Embedded",
+        "class": "featured"
+    },
+    {
+        "id": 4,
+        "time": "2025-05-28 17:20",
+        "author": "Raj",
+        "headline": "IIT Delhi Offers 150+ Research Internships",
+        "details": "Open to final-year students across AI, IoT, and Robotics.",
+        "news_type": "Jobs",
+        "field": "IoT",
+        "class": "normal"
+    },
+    {
+        "id": 5,
+        "time": "2025-05-27 14:00",
+        "author": "Sneha",
+        "headline": "Edge AI for Agriculture Unveiled by Agritech Startup",
+        "details": "Real-time crop monitoring using embedded edge computing.",
+        "news_type": "Invention",
+        "field": "Embedded",
+        "class": "featured"
+    },
+    {
+        "id": 6,
+        "time": "2025-05-26 11:15",
+        "author": "Karan",
+        "headline": "Samsung Launches 3nm VLSI Chip",
+        "details": "First of its kind to hit commercial markets in India.",
+        "news_type": "Product Launch",
+        "field": "VLSI",
+        "class": "breaking"
+    },
+    {
+        "id": 7,
+        "time": "2025-05-25 12:00",
+        "author": "Riya",
+        "headline": "Hiring Alert: Qualcomm Expands IoT Division",
+        "details": "New roles open for freshers and experienced professionals in India.",
+        "news_type": "Jobs",
+        "field": "IoT",
+        "class": "normal"
+    },
+    {
+        "id": 8,
+        "time": "2025-05-24 16:40",
+        "author": "Tarun",
+        "headline": "IIT Madras Develops World’s Lightest AI Chip",
+        "details": "Chip designed for space and drone applications.",
+        "news_type": "Invention",
+        "field": "VLSI",
+        "class": "featured"
+    },
+    {
+        "id": 9,
+        "time": "2025-05-23 10:50",
+        "author": "Anjali",
+        "headline": "Capgemini to Hire 5,000 Engineers for Embedded Roles",
+        "details": "Focus on automotive and consumer electronics.",
+        "news_type": "Jobs",
+        "field": "Embedded",
+        "class": "breaking"
+    },
+    {
+        "id": 10,
+        "time": "2025-05-22 09:00",
+        "author": "Vivek",
+        "headline": "ISRO Integrates IoT for Satellite Health Monitoring",
+        "details": "Real-time metrics powered by LoraWAN and NB-IoT protocols.",
+        "news_type": "Invention",
+        "field": "IoT",
+        "class": "featured"
+    },
+    {
+        "id": 11,
+        "time": "2025-05-21 13:25",
+        "author": "Fatima",
+        "headline": "Intel’s New EDA Tool Set to Disrupt VLSI Industry",
+        "details": "Faster synthesis and placement optimization for chip design.",
+        "news_type": "Product Launch",
+        "field": "VLSI",
+        "class": "normal"
+    },
+    {
+        "id": 12,
+        "time": "2025-05-20 11:11",
+        "author": "Rahul",
+        "headline": "Top 10 Embedded Systems Startups to Watch in 2025",
+        "details": "Innovation in healthcare, automation, and consumer electronics.",
+        "news_type": "Featured List",
+        "field": "Embedded",
+        "class": "featured"
+    },
+    {
+        "id": 13,
+        "time": "2025-05-19 15:15",
+        "author": "Neha",
+        "headline": "Cisco India Announces IoT Fellowship for Students",
+        "details": "Includes mentorship and project funding up to ₹2 Lakhs.",
+        "news_type": "Jobs",
+        "field": "IoT",
+        "class": "normal"
+    },
+    {
+        "id": 14,
+        "time": "2025-05-18 10:30",
+        "author": "Dheeraj",
+        "headline": "Start-Up Builds TinyML Platform for Wearables",
+        "details": "Brings AI inference directly to microcontrollers.",
+        "news_type": "Invention",
+        "field": "Embedded",
+        "class": "breaking"
+    },
+    {
+        "id": 15,
+        "time": "2025-05-17 09:00",
+        "author": "Simran",
+        "headline": "Google Launches IoT Device Management Suite",
+        "details": "Handles over-the-air updates and remote diagnostics.",
+        "news_type": "Product Launch",
+        "field": "IoT",
+        "class": "featured"
+    },
+    {
+        "id": 16,
+        "time": "2025-05-16 17:00",
+        "author": "Ramesh",
+        "headline": "New Toolchain Released for Open-Source VLSI Projects",
+        "details": "Supports RISCV-based SoCs and layout synthesis.",
+        "news_type": "Product Launch",
+        "field": "VLSI",
+        "class": "normal"
+    },
+    {
+        "id": 17,
+        "time": "2025-05-15 12:45",
+        "author": "Lavanya",
+        "headline": "Bosch to Recruit Embedded Engineers for EV Solutions",
+        "details": "Focus on real-time firmware and battery management systems.",
+        "news_type": "Jobs",
+        "field": "Embedded",
+        "class": "featured"
+    },
+    {
+        "id": 18,
+        "time": "2025-05-14 08:20",
+        "author": "Dev",
+        "headline": "AI-Enhanced IoT System Detects Structural Cracks in Buildings",
+        "details": "Combines vibration sensors with ML anomaly detection.",
+        "news_type": "Invention",
+        "field": "IoT",
+        "class": "featured"
+    },
+    {
+        "id": 19,
+        "time": "2025-05-13 14:00",
+        "author": "Kritika",
+        "headline": "Micron India Launches VLSI Bootcamp for Students",
+        "details": "4-week certified training in digital design and verification.",
+        "news_type": "Jobs",
+        "field": "VLSI",
+        "class": "normal"
+    },
+    {
+        "id": 20,
+        "time": "2025-05-12 10:00",
+        "author": "Aditya",
+        "headline": "Nano-sensor Embedded System for Air Quality Index (AQI)",
+        "details": "Deployed in Delhi metro with real-time pollution feedback.",
+        "news_type": "Invention",
+        "field": "Embedded",
+        "class": "breaking"
+    },
+    {
+        "id": 21,
+        "time": "2025-05-11 11:30",
+        "author": "Priya",
+        "headline": "Amazon Opens 200+ IoT Positions Globally",
+        "details": "Work on Alexa, AWS Greengrass, and smart home devices.",
+        "news_type": "Jobs",
+        "field": "IoT",
+        "class": "breaking"
+    },
+    {
+        "id": 22,
+        "time": "2025-05-10 12:20",
+        "author": "Ishaan",
+        "headline": "Apple’s Embedded OS Now Supports Vision Pro Devices",
+        "details": "Low-latency architecture and ML accelerators onboard.",
+        "news_type": "Product Launch",
+        "field": "Embedded",
+        "class": "featured"
+    },
+    {
+        "id": 23,
+        "time": "2025-05-09 14:40",
+        "author": "Sanya",
+        "headline": "FPGA Startup Raises $25M for VLSI Innovation",
+        "details": "Funding led by Sequoia and Tiger Global.",
+        "news_type": "Investment",
+        "field": "VLSI",
+        "class": "normal"
+    },
+    {
+        "id": 24,
+        "time": "2025-05-08 15:30",
+        "author": "Manav",
+        "headline": "IoT-enabled Smart Helmet Saves Lives in Mining Sector",
+        "details": "Detects toxic gases, sends live updates to control room.",
+        "news_type": "Invention",
+        "field": "IoT",
+        "class": "featured"
+    },
+    {
+        "id": 25,
+        "time": "2025-05-07 17:50",
+        "author": "Aditi",
+        "headline": "Hiring Surge: Bosch, Intel, and Honeywell in Race for Embedded Talent",
+        "details": "Over 1000+ openings announced in Q2 alone.",
+        "news_type": "Jobs",
+        "field": "Embedded",
+        "class": "breaking"
+    },
+    {
+        "id": 26,
+        "time": "2025-05-06 13:00",
+        "author": "Yash",
+        "headline": "Cadence Launches Cloud VLSI Design Suite",
+        "details": "Offers RTL to GDSII pipeline on cloud.",
+        "news_type": "Product Launch",
+        "field": "VLSI",
+        "class": "featured"
+    },
+    {
+        "id": 27,
+        "time": "2025-05-05 09:00",
+        "author": "Pooja",
+        "headline": "DroneTech Startup Uses IoT for Crop Dusting Automation",
+        "details": "IoT sensors optimize chemical usage based on soil data.",
+        "news_type": "Invention",
+        "field": "IoT",
+        "class": "normal"
+    },
+    {
+        "id": 28,
+        "time": "2025-05-04 18:10",
+        "author": "Nikhil",
+        "headline": "India Semiconductor Mission Adds VLSI Summer School",
+        "details": "Curriculum covers backend flow and fabrication tech.",
+        "news_type": "Education",
+        "field": "VLSI",
+        "class": "normal"
+    },
+    {
+        "id": 29,
+        "time": "2025-05-03 15:15",
+        "author": "Harshita",
+        "headline": "Nvidia Releases Embedded SDK for Jetson Nano 2",
+        "details": "Improves boot speed and adds CUDA 12 support.",
+        "news_type": "Product Launch",
+        "field": "Embedded",
+        "class": "featured"
+    },
+    {
+        "id": 30,
+        "time": "2025-05-02 14:30",
+        "author": "Dheeraj",
+        "headline": "Hackathon Announced: Build IoT for Smart Cities",
+        "details": "Win prizes worth ₹5 Lakhs. Register by June 10.",
+        "news_type": "Event",
+        "field": "IoT",
+        "class": "normal"
     }
 ]
